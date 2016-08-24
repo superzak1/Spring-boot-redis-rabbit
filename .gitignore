@@ -1,0 +1,9 @@
+/.idea
+/target
+/log
+*.log
+/bin
+/tmp
+*.iml
+/sys$command
+/.settings/

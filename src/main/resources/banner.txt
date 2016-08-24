@@ -1,0 +1,8 @@
+
+
+----------------------------
+*******  WARNING!!!  *******
+ RABBIT TEST IN PROGRESS!!!
+ REDIS TEST IN PROGRESS!!!
+----------------------------
+
